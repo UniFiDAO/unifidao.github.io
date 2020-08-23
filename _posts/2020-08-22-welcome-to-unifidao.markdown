@@ -12,7 +12,7 @@ categories: governance
 We will unify the Cosmos universise of blockchains and accelerate participation in the DeFi economy.
 
 ### Purpose of the DAO
-To enable the community to easily and quickly coordinate to fund and deliver interoperable solutions unique to the Cosmos universe.
+To enable the community to easily and quickly coordinate the funding and delivery of interoperable solutions unique to the Cosmos universe.
 
 ### Goals
 Enable the Cosmos ecosystem to participate in and redefine "decentralized finance".
