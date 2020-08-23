@@ -10,7 +10,7 @@ twitter_username: unifidao
 github_username:  unifidao
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
