@@ -3,7 +3,7 @@
 title: UniFi DAO
 email: info@unifidao.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The UniFi DAO for the Cosmos blockchain ecosystem of chains
+  The UniFi DAO for the Cosmos blockchain universe of chains
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: unifidao
