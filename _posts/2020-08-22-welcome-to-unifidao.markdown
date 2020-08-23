@@ -15,7 +15,7 @@ We will unify the Cosmos universise of blockchains and accelerate participation 
 To enable the community to easily and quickly coordinate the funding and delivery of interoperable solutions unique to the Cosmos universe.
 
 ### Goals
-Enable the Cosmos ecosystem to participate in and redefine "decentralized finance".
+Successfully participate in and redefine "decentralized finance" in the Cosmos universe and greater blockchain ecosystem.
 
 ### Structure
 The DAO is a collection of steering committees (defined by multisgnature keys) tasked to execute vote porposals submitted by the community. This website will host the proposals and the steering committees that will execute on approved proposals.
