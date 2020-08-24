@@ -11,7 +11,7 @@ categories: governance
 ## The Steering Committees
 Any DAO member may propose a steerring committee multisignature wallet. Execution of voting proposals by members will require spending of voting funds in favor of the proposal. Those fees and funds are controlled by a multi-signature wallet of each of the UniFi steering committees. 
 
-### UniFi DAO Steering Committee 001:
+### UniFi DAO Steering Committee 101:
 
 UniFi DAO Proposoal Number | 101
 DAO Multisignature Wallet Address | [cosmos1p42rkz95dgk0laeqpwlp0y8d70j6psc6vhzxjz](https://hubble.figment.network/cosmos/chains/cosmoshub-3/accounts/cosmos1p42rkz95dgk0laeqpwlp0y8d70j6psc6vhzxjz)
