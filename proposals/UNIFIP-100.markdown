@@ -1,6 +1,5 @@
 ---
 layout: page
-title: WIP
 permalink: /proposals/100
 ---
 
