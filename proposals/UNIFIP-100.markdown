@@ -1,9 +1,7 @@
 ---
 layout: page
 permalink: /proposals/100
-title: 
 ---
-
 ## UNIFIP-100: UNIFI Proposal Purpose and Guidelines.
 
 | UNIFIP | Title | Status | Author | Created | Updated
