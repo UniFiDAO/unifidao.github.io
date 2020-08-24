@@ -29,11 +29,10 @@ Currently, our plan is as follows:
 
 1. **NON-BINDING VOTES** will be conducted off-chain using the native Telegram poll in the public UniFi Cosmos group
 
-2. **BINDING VOTES** will be conducted in the private UniFi group, which includes members who give a minimum amount of ATOM
-3. You will be required to verify identity
-4. MULTI-SIG allocation of the funds ~ denominated in ATOM
-5. Spreadsheet of commitments will be used to keep track of sources
-6. No Donation Without Representation
+2. **BINDING VOTES** will be conducted publicly as well and votes will be measured by the ATOM contribution to the multisgnature steering committee wallet
+3. MULTI-SIG allocation of the funds ~ denominated in ATOM
+4. Spreadsheet of commitments will be used to keep track of the whitelist of contributing Cosmos addresses
+5. No Donation Without Representation
 
 The UniFi members will introduce various proposals for this community of communities to potentially fund. Initially, resources will be gathered in a single denomination, ATOM, but eventually, other currencies might be accepted. Furthermore, specific project budgets could have new multi-sig authorities.
 
@@ -42,4 +41,3 @@ Ideally, this promotes greater accountability for the purpose of unifying the Co
 
 Discussions on the Iniital roadmap may continue in Telegram
 [UniFi Cosmos](https://t.me/unificosmos)
-
