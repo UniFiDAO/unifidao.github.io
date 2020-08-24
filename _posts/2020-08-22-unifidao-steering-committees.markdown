@@ -13,7 +13,7 @@ Any DAO member may propose a steerring committee multisignature wallet. Executio
 
 ### UniFi DAO Steering Committee 001:
 
-UniFi DAO Proposoal Number | 001 
+UniFi DAO Proposoal Number | 101
 DAO Multisignature Wallet Address | [cosmos1p42rkz95dgk0laeqpwlp0y8d70j6psc6vhzxjz](https://hubble.figment.network/cosmos/chains/cosmoshub-3/accounts/cosmos1p42rkz95dgk0laeqpwlp0y8d70j6psc6vhzxjz)
 Zaki Manian | Iqlusion
 Martin Dyring-Andersen | e-Money
