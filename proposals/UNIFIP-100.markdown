@@ -3,7 +3,7 @@ layout: page
 permalink: /proposals/100
 ---
 
-### UP-100: UNIFI Proposal Purpose and Guidelines**
+## UP-100: UNIFI Proposal Purpose and Guidelines
 
 | UP # | Title | Status | Author | Created | Updated
 |:-------- |:-------- |:--------|:-------- |:--------
@@ -11,7 +11,7 @@ permalink: /proposals/100
  
 
 ### What is UP?
-An UP is a UniFi DAO Proposal. It is a proposal document providing information to the Cosmos universe and UniFi membership describing a new funding proposal and go-to-market action plan for new features in the Cosmos DeFi ecosystem. The UNIFIP author is responsible for building consensus within the community and documenting dissenting opinions.
+An UP is a UniFi DAO Proposal. It is a proposal document providing information to the Cosmos universe and UniFi membership describing a new funding proposal and go-to-market action plan for new features in the Cosmos DeFi ecosystem. The UP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 
 
