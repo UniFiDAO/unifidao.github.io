@@ -12,7 +12,9 @@ permalink: /proposals/100
 ### What is UP?
 An UP is a UniFi DAO Proposal. It is a proposal document providing information to the Cosmos universe and UniFi membership describing a new funding proposal and go-to-market action plan for new features in the Cosmos DeFi ecosystem. The UP author is responsible for building consensus within the community and documenting dissenting opinions.
 
+##UP Rationale
+We consider UPs to be the primary mechanisms for proposing new features, for collecting community input and launching new projects that will benefit the Cosmos universe. We were inspired by Ethereum Improvement Proposals (EIPs) and have used that as a guide to organize an open approach to participating in the UniFi DAO.
 
 
 You can see our active conversations on Telegram here:
-[#UniFi DAO Telegram](https://t.me/joinchat/C_FPy0nbEGuCc6YoxwCdIg)
+[#UniFi DAO Telegram](https://t.me/unificosmos)
