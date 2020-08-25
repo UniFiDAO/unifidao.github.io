@@ -2,8 +2,7 @@
 layout: page
 permalink: /proposals/100
 ---
-
-## UP-100: UNIFI Proposal Purpose and Guidelines
+**UP-100: UNIFI Proposal Purpose and Guidelines**
 
 | UP # | Title | Status | Author | Created | Updated
 |:-------- |:-------- |:--------|:-------- |:--------
