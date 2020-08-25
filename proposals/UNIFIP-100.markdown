@@ -12,13 +12,14 @@ permalink: /proposals/100
 ### What is UP?
 An UP is a UniFi DAO Proposal. It is a proposal document providing information to the Cosmos universe and UniFi membership describing a new funding proposal and go-to-market action plan for new features in the Cosmos DeFi ecosystem. The UP author is responsible for building consensus within the community and documenting dissenting opinions.
 
-## UP Rationale
+### UP Rationale
 We consider UPs to be the primary mechanisms for proposing new features, for collecting community input and launching new projects that will benefit the Cosmos universe. We were inspired by Ethereum Improvement Proposals (EIPs) and have used that as a guide to organize an open approach to participating in the UniFi DAO.
 
 ### List of published UP's
 We are using the [UniFi DAO Proposal Repository](https://github.com/taariq/unifidao-proposals) on Github as the repository for UPs. 
 
 ### UP Types
+We have launched with three initial types of UPs.
 
 * **A Membership UP** is a request for to purchase a membership to an association of members who will work to launch a new product or service with help from the community. This is meant as a non-investment participation to allow members to select into a group that will be able to participate in the project as future investors. A membership may have tokens or it may not. It is purely up to the UP proposal authors how they would like to structure membership. However, the goal of this UP is to acquire members who may become investors in the future.
 
