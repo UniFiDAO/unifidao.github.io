@@ -9,7 +9,7 @@ categories: governance
 ## Universal Finance in the Cosmos Ecosystem
 
 ### Manifesto:
-We will unify the Cosmos universise of blockchains and accelerate participation in the DeFi economy.
+We will unify the Cosmos universe of blockchains and accelerate participation in the DeFi economy.
 
 ### Purpose of the DAO
 To enable the community to easily and quickly coordinate the funding and delivery of interoperable solutions unique to the Cosmos universe.
@@ -18,10 +18,10 @@ To enable the community to easily and quickly coordinate the funding and deliver
 Successfully participate in and redefine "decentralized finance" in the Cosmos universe and greater blockchain ecosystem.
 
 ### Structure
-The DAO is a collection of steering committees (defined by multisgnature keys) tasked to execute vote porposals submitted by the community. This website will host the proposals and the steering committees that will execute on approved proposals.
+The DAO is a collection of steering committee wallets and proposals (UPs) tasked to acquire ATOM votes submitted by the community. This website will host the proposals and the steering committees that will execute on approved proposals.
 
 ### Governance
-Any member of the DAO may propose a vote with a steering committee to fulfill the vote results. Votes are tallied in ATOMs. The DAO governance is meant to support the other governance structures of the blockchains in the Cosmos universe.
+Any member of the DAO may propose a vote with a steering committee to fulfill the vote results. Votes are tallied in ATOMs and measured to a proposal threshold. The UniFi DAO governance is meant to support the other governance structures of the blockchains in the Cosmos universe.
 
 ### DAO Source of Funds
 We propose a simple financing structure for the DAO as follows:
