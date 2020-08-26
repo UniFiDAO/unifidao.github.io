@@ -16,7 +16,7 @@ An UP is a UniFi DAO Proposal. It is a proposal document providing information t
 We consider UPs to be the primary mechanisms for proposing new features, for collecting community input and launching new projects that will benefit the Cosmos universe. We were inspired by Ethereum Improvement Proposals (EIPs) and have used that as a guide to organize an open approach to participating in the UniFi DAO.
 
 ### List of published UP's
-We are using Github as the repository for UPs. 
+List of Published Ups are here: [https://github.com/UniFiDAO/unifidao-proposals](https://github.com/UniFiDAO/unifidao-proposals)
 
 ### UP Types
 
@@ -26,6 +26,8 @@ We are using Github as the repository for UPs.
 
 * **A Grant UP** is a request for a grant to launch a new product or service with help from the community. This is meant as a supporting grant to any other grant funding or stand alone. It does not require any payment in kind or tokens. It is mainly ideal for researchers seeking small support, very quickly, to pursue Cosmos universe objectives that are of value to the community.
 
+### How to Publish an UP?
+Fork the Github Repository [https://github.com/UniFiDAO/unifidao-proposals](https://github.com/UniFiDAO/unifidao-proposals) and use the template and make a pull request. Alert the [UniFi DAO Telegram](https://t.me/unificosmos) of your proposal draft and let's discuss. That's it!
 
 
 You can see our active conversations on Telegram here:
